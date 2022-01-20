@@ -1,2 +1,4 @@
 Hola Soy Gaston.
+tengo 28 años. 
+nacido en argentina.
 Estudiando git 
